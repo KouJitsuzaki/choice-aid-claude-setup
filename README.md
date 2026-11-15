@@ -10,7 +10,8 @@ choice aid のメンバーが Claude Code を使い始めるためのセット�
 ### 1. Claude のデスクトップアプリを入れて、ログインする
 
 - https://claude.ai/download から、パソコン（Windows か Mac）に合うものを入れる
-- 案内されたアカウントでログインする
+- **自分の Claude アカウント**でログインする。Claude Code を使うには **Pro 以上の有料プラン**が必要（アカウントの設定 → プランで確かめられる）
+- Google ドライブは、次の 2. で**会社の Google アカウント**をつなぐ（Claude のアカウントとは別でよい）
 
 ### 2. Google ドライブをつなぐ
 
